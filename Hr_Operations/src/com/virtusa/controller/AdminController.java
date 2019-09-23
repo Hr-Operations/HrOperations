@@ -1,4 +1,4 @@
-package com.virtusa.Controller;
+package com.virtusa.controller;
 
 public class AdminController {
 
